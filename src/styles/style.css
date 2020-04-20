@@ -1,0 +1,37 @@
+@import 'https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap';
+
+
+*{
+    font-size: 16px;
+    font-family: 'Libre Baskerville', serif;
+    color: #494c4e;
+}
+
+body {
+    border: 8px solid #494c4e;
+    min-height: 100vh;
+}
+
+a {
+    color: #494c4e;
+    text-decoration: none;
+    margin-bottom: 1.25em;
+}
+
+.border {
+    border-top: 1px solid #f0eeee;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #f0eeee;
+}
+
+.my-profile-container h4 {
+    font-size: 0.75em;
+    line-height: 1em;
+    margin-bottom: 1.5em;
+    color: #f6ac00;
+    text-transform: uppercase;
+}
+
+ul {list-style-type: circle;}

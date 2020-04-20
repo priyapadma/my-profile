@@ -1,0 +1,44 @@
+{
+    "content": [
+      {
+        "projectName" : "Localize",
+        "duration" : "DEC 2019 – till date",
+        "role" : "Front End Developement",
+        "link" : "/",
+        "stacksUsed" : "Gatsby, Markdown, Javascript , HTML5, CSS3",
+        "responsibilities" : [
+            "Developing challenging UI", "Used JIRA to track the defects with agile methodology", "Developing static sites for Marketing and Product pages"
+        ]
+      },
+      {
+        "projectName" : "Cliffwater",
+        "duration" : "NOV 2016 - DEC 2019",
+        "role" : "Front End Developement/Project Manaegement",
+        "link" : "https://cliffwater.com",
+        "stacksUsed" : "Microsoft Azure, Dot Net, SQL, HTML5, CSS3, Jquery, Angular 5 & 8, AJAX, JSON, Handlebars, Datatables, C3  Charts, Google Charts, Highcharts and Google Material design",
+        "responsibilities" : [
+            "Developing challenging UI for entire application single handedly", "Integrating back-end APIs with the developed UI", "Closely worked with back-end developers to optimize existing Web technology and create the best possible user experience", "Ensuring end to end unit testing of every feature (newly added and existing) before integration testing", "Used JIRA to track the defects with agile methodology", "Upgrading existing site to Angular 8"
+        ]
+      },
+      {
+        "projectName" : "Dollar General",
+        "duration" : "AUG 2016 - OCT 2019",
+        "role" : "Front End Developement",
+        "link" : "https://dollargeneral.com",
+        "stacksUsed" : "Magento Framework, HTML5, CSS3, LESS, JQuery, PHP",
+        "responsibilities" : [
+            "Developed user interface using HTML5, LESS and JQuery", "Responsible for achieving responsive website"
+        ]
+      },
+      {
+        "projectName" : "Vembu CRM",
+        "duration" : "JUNE 2014 - JUNE 2016",
+        "role" : "Full-Stack Developement",
+        "link" : "https://crm.vembu.com",
+        "stacksUsed" : "Java, Servlets, MySQL, HTML5, JQuery, JavaScript, Twitter Bootstrap, IMAP, POP, SMTP, Apache Solr, Amazon S3",
+        "responsibilities" : [
+            "Worked on SSO integration with CRM, Solr indexing, Amazon S3, Mail fetching(using IMAP & POP) and implementation of DNS server and Mail Server technologies", "Integrating the front end UI to back end using JAVA Servlets and JDBC connectors for fetching details from MySQL database and worked on multithreading concepts", "Involved in database designing and Query handling", "Ensuring end to end unit testing of every feature (newly added and existing) before integration testing", "Fixing of bugs coming out of unit testing and Integration testing", "Responsible to produce results under deadline constraints"
+        ]
+      }
+    ]
+  }

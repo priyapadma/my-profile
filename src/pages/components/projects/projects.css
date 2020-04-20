@@ -1,0 +1,28 @@
+.my-projects {
+    padding: 1rem 2rem;
+    margin: 0 auto;
+}
+
+.my-projects h3 {
+    font-size: 1.25em;
+    line-height: 1em;
+    font-weight: 600;
+}
+
+.my-projects .my-projects-list li {
+    padding: 3em 0 1em;
+}
+
+.my-projects .my-projects-list li a {
+    text-decoration: underline;
+}
+
+.my-projects .my-projects-list li div {
+    font-size: 0.9em;
+    padding-bottom: 1em
+}
+
+.my-projects .my-projects-list .my-projects-roles li {
+    padding: 0.25em;
+    font-size: 0.9em;
+}

@@ -1,0 +1,24 @@
+.my-profile-title {
+    padding: 6rem 2rem;
+    max-width: 80em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.my-profile-title h1 {
+    font-size: 2em;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+
+.my-profile-title .btn-outline-warning {
+    color: #f6ac00;
+    border-color: #f6ac00;
+    width: 200px;
+    padding: 12px 20px 12px;
+    font-size: 1em;
+}
+
+.my-profile-title .btn-outline-warning:hover, .my-profile-title .btn-outline-warning:active {
+    color: #ffffff;
+}

@@ -1,0 +1,34 @@
+{
+    "summary": ["5 years and 3 months of experience in Web Application Development.", "Involved in developing UI using HTML5, CSS3, JavaScript, JQuery, Angular, Ajax, JSON, RequireJS, Handlebars, Twitter bootstrap and Google Material design for Interactive cross browser functionality as per the requirements provided.", "Proficient in responsive Web design and ways to work around them.", "Has good experience on JAM stack.", "Hands on experience in Web Application development using Java and Servlets.", "Prepared site by installing and configuring server software like Apache, Tomcat.", "Have worked on implementation of searching functionality using Apache Solr, DNS Server and Mail Server Technologies.", "Knowledge in SSO integration, Amazon S3 storage and Mail fetching (IMAP and POP) technologies.", "Good knowledge on React and Node JS."],
+    "skills" : [
+        {
+            "category" : "Web Technologies",
+            "lang" : "HTML5, CSS3, JavaScript, OOJS, Jquery, AJAX, JSON, Require JS, Handlebars, C3 charts, Datatables, Google Charts, Highcharts"
+        },
+        {
+            "category" : "Programming Languages",
+            "lang" : "Java, Servlets"
+        },
+        {
+            "category" : "Frameworks",
+            "lang" : "Angular, Twitter Bootstrap, MaterializeCSS, Gatsby"
+        },
+        {
+            "category" : "Application Servers",
+            "lang" : "Apache Web Server, Apache Tomcat"
+        },
+        {
+            "category" : "Database",
+            "lang" : "MySQL"
+        },
+        {
+            "category" : "Tools",
+            "lang" : "Eclipse, NetBeans, Microsoft Visual Studio"
+        },
+        {
+            "category" : "Other Tools",
+            "lang" : "JIRA, GIT, Bitbucket, Basecamp"
+        }
+    ]
+
+}

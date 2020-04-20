@@ -1,0 +1,61 @@
+header .custom-nav-bar {
+    padding: 5rem 2rem;
+}
+header .custom-nav-bar .navbar-brand {
+    color: #000000 !important;
+    width: 60px;
+    height: 60px;
+    display: block;
+    overflow: visible;
+    border: 5px solid #494c4e;
+    position: relative;
+    transform: rotate(0deg);
+    transition: transform .4s ease-in-out;
+    flex-shrink: 0;
+    text-align: center;
+}
+
+header .custom-nav-bar .navbar-brand:hover {
+    opacity: 1;
+    transform: rotate(-90deg);
+    transition: transform .4s ease-in-out;
+}
+
+header .custom-nav-bar .navbar-brand span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%) rotate(0deg);
+    transition: transform .4s ease-in-out;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+header .custom-nav-bar .navbar-brand:hover span {
+    transform: translate(-50%,-50%) rotate(90deg);
+    transform-origin: center;
+}
+
+.custom-nav-bar-nav li {
+    font-size: 1.05rem;
+    padding: 0 1rem;
+}
+.custom-nav-bar-nav li.nav-item a:hover {
+    border-bottom: 2px solid #f6ac00;
+    opacity: 1;
+}
+.custom-nav-bar-nav li .nav-link {
+    font-weight: 700;
+    color: #000000  !important;
+    padding: 0;
+}
+.custom-nav-bar-nav li .nav-link.active{
+    font-weight: 500;
+}
+
+
+@media only screen and (max-width: 991px) {
+    .collapse.navbar-collapse {
+        display: block !important;
+    }
+  }
